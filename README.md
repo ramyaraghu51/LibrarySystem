@@ -1,5 +1,5 @@
 # LibrarySystem
-The goal of a public library is to provide members of the surrounding community access to books, periodicals, movies, music etc.  Library services include free rentals of inventory for up to 30 days and classes for learning new skills. Example website (Links to an external site.)
+The goal of a public library is to provide members of the surrounding community access to books, periodicals, movies, music etc.  Library services include free rentals of inventory for up to 30 days and classes for learning new skills. 
 
 After 30 days, a $1 per day fine is assessed. The library needs to be able to track what inventory is currently at the library, when the inventory leaves, which member it leaves with, and how to contact the member in case they don’t return the item.
 
